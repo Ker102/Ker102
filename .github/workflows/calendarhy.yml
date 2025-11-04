@@ -1,7 +1,33 @@
 name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token must allow writing to the repo
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Render metrics for this user
+          user: Ker102
+
+          # Output file (committed to the default branch)
+          filename: metrics.plugin.isocalendar.svg
+
+          # Keep the base empty to only render the plugin section
+          base: ""
+
+          # Plugin configuration
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Optional timezone
+          config_timezone: UTC
+
