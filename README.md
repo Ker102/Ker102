@@ -1,9 +1,9 @@
-```markdown
 ## Hi there, I'm Ker102 👋
 
 <!-- metrics: start -->
-https://github.com/Ker102/Ker102/blob/main/github-metrics.svg
+![GitHub Metrics](github-metrics.svg)
+
+![Half-year Calendar](metrics.plugin.isocalendar.svg)
 <!-- metrics: end -->
 
 More about me...
-```
