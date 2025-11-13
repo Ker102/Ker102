@@ -1,9 +1,10 @@
-name: Icons
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.topics.icons.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_topics: yes
-  plugin_topics_limit: 0
-  plugin_topics_mode: icons
+# Existing Workflow Content Here
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+
+# Other existing workflow definitions...
