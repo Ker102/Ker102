@@ -1,5 +1,71 @@
-# About Me:
-I'm Ker102, a full-stack developer based in Estonia, with a strong passion for integrating Artificial Intelligence into practical and creative applications.<br><br>My work primarily revolves around TypeScript, and I have a deep interest in leveraging Large Language Models (LLMs) to create intelligent tools. My projects showcase a blend of web development, automation, and AI:<br><br>    AI & Automation: I'm the creator of Kaelux-Automate, an n8n automation workflow builder powered by a custom-trained LLM, and PromptTriage, a tool for analyzing and refining prompts.<br>    Creative AI Tools: I'm developing ModelForge, a project that connects Blender with advanced AI models, bridging the gap between 3D design and artificial intelligence.<br>    Full-Stack Development: My project Kaelocs is a full-stack web application that integrates an LLM with various server environments. I also built my personal blog using Astro and GitHub Actions to automate content publishing from Notion.<br><br>I enjoy building tools that are not only functional but also help streamline complex workflows. The common thread in my work is a desire to experiment, learn, and share what I create with the community.<br><br>    ✍️ I share my development journey and insights on my blog at [![Static Badge](https://img.shields.io/badge/Kaelux.dev-blue)](https://Kaelux.dev).<br>    💼 I am open to new career opportunities and collaborations.<br>    📫 You can reach me at: kristoferjussmann@gmail.com.<br>
+# 👋 About Me
+
+**Full-Stack Developer & AI Engineer** based in Estonia, building intelligent tools that bridge the gap between automation, AI, and creative workflows.
+
+I specialize in crafting LLM-powered applications, workflow automation systems, and AI-integrated tools using modern frameworks. My projects blend cutting-edge AI capabilities with practical, production-ready solutions.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Kaelux.dev
+> Developer portfolio & project hub
+>
+> [![Website](https://img.shields.io/badge/🔗_Kaelux.dev/links-0A0A0A?style=flat)](https://Kaelux.dev/links) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Kaelux-DevPotfolio) [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://typescriptlang.org/) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/) [![React Three Fiber](https://img.shields.io/badge/R3F-000?logo=threedotjs&logoColor=fff)](https://docs.pmnd.rs/react-three-fiber) [![Spline](https://img.shields.io/badge/Spline-0D0D0D?logo=spline&logoColor=fff)](https://spline.design/)
+>
+> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://instagram.com/Kaelux.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kristofer-jussmann-b8a398382/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:kristoferjussmann@gmail.com)
+>
+> Modern portfolio showcasing all my AI & automation projects. Built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.
+
+### ⚡ Kaelux-Automate
+> Enterprise-grade AI workflow automation builder
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Kaelux-Automate) [![AI Powered](https://img.shields.io/badge/AI_Powered-FF6F61?logo=openai&logoColor=fff)](https://openai.com/) [![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/) [![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff)](https://n8n.io/) [![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?logo=qdrant&logoColor=fff)](https://qdrant.tech/) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff)](https://langchain.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://typescriptlang.org/)
+>
+> LLM-powered workflow builder with embedded n8n, vector search via Qdrant, and intelligent differential updates. Transform natural language into production-ready automation pipelines.
+
+### 🔬 Crosswind Console
+> Unified AI research dashboard
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Crosswind-Console) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff)](https://svelte.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/) [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](https://threejs.org/) [![RapidAPI](https://img.shields.io/badge/RapidAPI-0055DA?logo=rapidapi&logoColor=fff)](https://rapidapi.com/) [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=fff)](https://deepmind.google/technologies/gemini/) [![MCP](https://img.shields.io/badge/MCP-D4A574?logo=anthropic&logoColor=fff)](https://modelcontextprotocol.io/)
+>
+> Real-time research platform aggregating jobs, travel, and trends data. Features Gemini 2.5 Pro integration, MCP orchestration with Firecrawl & Playwright, and Google OAuth.
+
+### 🤖 Kaelocs-AI
+> Next-generation AI chat application
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Kaelocs) [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?logo=googlegemini&logoColor=fff)](https://deepmind.google/technologies/gemini/) [![MCP](https://img.shields.io/badge/MCP-D4A574?logo=anthropic&logoColor=fff)](https://modelcontextprotocol.io/) [![Brave](https://img.shields.io/badge/Brave_Search-FB542B?logo=brave&logoColor=fff)](https://search.brave.com/)
+>
+> Modern AI chat with Gemini 2.5 Flash, dual authentication, MCP capabilities (GitMCP, Brave Search, Firecrawl), and rich markdown rendering.
+
+### 🎨 ModelForge
+> AI-powered Blender assistant
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ModelForge) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/) [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=fff)](https://deepmind.google/technologies/gemini/) [![MCP](https://img.shields.io/badge/MCP-D4A574?logo=anthropic&logoColor=fff)](https://modelcontextprotocol.io/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](https://postgresql.org/) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)](https://prisma.io/) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org/)
+>
+> Desktop AI assistant for 3D workflows featuring Gemini orchestration with ReAct planning, MCP integration for Poly Haven, Hyper3D, and Sketchfab assets.
+
+### 📚 Workflow Automation Atlas
+> The largest n8n workflow collection
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/n8n-ai-automation-workflow-atlas) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/) [![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff)](https://n8n.io/)
+>
+> **3,831+ workflows** organized in 6 themed packs with a sleek Vue + Vite explorer. Browse, search, and deploy automation blueprints instantly.
+
+### 🎯 PromptTriage
+> Intelligent prompt engineering toolkit
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/PromptTriage) [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=fff)](https://deepmind.google/technologies/gemini/) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff)](https://langchain.com/) [![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6B35)](https://firecrawl.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://typescriptlang.org/)
+>
+> Analyze, refine, and optimize prompts with metaprompt generation and intelligent categorization.
+
+---
+
+✍️ I share my development journey at [![Kaelux.dev](https://img.shields.io/badge/Kaelux.dev-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://Kaelux.dev)
+
+💼 Open to collaborations and opportunities
+
+📫 You can reach me at: kristoferjussmann@gmail.com
 
 ![Half-year Calendar](metrics.plugin.isocalendar.svg)
 
