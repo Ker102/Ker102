@@ -61,7 +61,7 @@ I specialize in crafting LLM-powered applications, workflow automation systems, 
 
 ---
 
-✍️ I share my development journey at [![Kaelux.dev](https://img.shields.io/badge/Kaelux.dev-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://Kaelux.dev)
+[![Kaelux.dev](https://img.shields.io/badge/✍️_Dev_Journey-Kaelux.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://Kaelux.dev) [![Blog](https://img.shields.io/badge/📝_Blog-Astroblog-BC52EE?style=for-the-badge&logo=astro&logoColor=fff)](https://github.com/Ker102/Astroblogauto)
 
 💼 Open to collaborations and opportunities
 
