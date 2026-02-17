@@ -1,19 +1,19 @@
 # 👋 About Me
 
-**Full-Stack Developer & AI Engineer** based in Estonia, building intelligent tools that bridge the gap between automation, AI, and creative workflows.
+**Agentic Systems Architect & Cloud Engineer** based in Estonia, designing intelligent infrastructure that bridges LLM orchestration, autonomous agents, and enterprise-grade cloud deployments.
 
-I specialize in crafting LLM-powered applications, workflow automation systems, and AI-integrated tools using modern frameworks. My projects blend cutting-edge AI capabilities with practical, production-ready solutions.
+I specialize in building agentic AI pipelines, RAG-powered workflows, and managed cloud platforms — from fine-tuned models to production-ready IaaS. Every system I ship is designed for reliability, scale, and real-world automation.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌐 Kaelux.dev
-> AI Engineering Consultancy & Developer Portfolio
+> AI Engineering Agency & Cloud Platform
 >
 > [![Website](https://img.shields.io/badge/🔗_Kaelux.dev-0A0A0A?style=flat)](https://Kaelux.dev) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Kaelux-DevPortfolio)
 >
-> [![Next.js](https://img.shields.io/badge/Next.js_16-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Groq](https://img.shields.io/badge/Groq-Llama_3.3_70B-orange)](https://groq.com/)
+> [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Groq](https://img.shields.io/badge/Groq-Llama_3.3_70B-orange)](https://groq.com/)
 >
 > AI engineering consultancy showcasing **Neural Diagnoser** (Groq-powered diagnostic agent), GEO-optimized wiki, and project portfolio. Features real-time HuggingFace model search via tool calling.
 
@@ -48,7 +48,7 @@ I specialize in crafting LLM-powered applications, workflow automation systems, 
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ModelForge) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/)
 >
-> [![Next.js](https://img.shields.io/badge/Next.js_16-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/) [![Gemini](https://img.shields.io/badge/Gemini_3_Pro-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
+> [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/) [![Gemini](https://img.shields.io/badge/Gemini_3_Pro-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
 >
 > Desktop AI assistant for 3D workflows with **ReAct-style orchestration**, **113+ Blender script RAG pipeline**, viewport screenshot analysis, and conversation memory. Features MCP integration for Poly Haven, Hyper3D, and Sketchfab assets.
 
@@ -95,7 +95,7 @@ I specialize in crafting LLM-powered applications, workflow automation systems, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js_16-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -103,7 +103,7 @@ I specialize in crafting LLM-powered applications, workflow automation systems, 
 
 ### Backend & Data
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js_24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
