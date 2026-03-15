@@ -76,14 +76,25 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ---
 
+### 🎙️ StoryForge
+> Voice-Driven AI Storybook Generator
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/StoryForge) [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Ker102/StoryForge/blob/main/LICENSE)
+>
+> [![Python](https://img.shields.io/badge/Python_3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Gemini](https://img.shields.io/badge/Gemini_Live_API-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
+>
+> Real-time voice-driven storybook creator powered by **Gemini Live API**. Speak your ideas to **Quill**, an AI creative companion, and get fully illustrated pages with **Imagen 4** art and narration. Features child-safe content filtering, one-click PDF export, and parallel text/image/audio generation.
+
+---
+
 ### 📝 Astroblogauto
 > Notion-Powered Blog with Auto-Publishing
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto) [![Live](https://img.shields.io/badge/🔗_Live_Site-ker102.github.io-0A0A0A)](https://ker102.github.io/Astroblogauto/)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto) [![Live](https://img.shields.io/badge/🔗_Live_Site-Vercel-000?logo=vercel&logoColor=fff)](https://astroblogauto.vercel.app/)
 >
-> [![Astro](https://img.shields.io/badge/Astro_5-BC52EE?logo=astro&logoColor=fff)](https://astro.build/) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/) ![Deploy](https://img.shields.io/github/actions/workflow/status/Ker102/Astroblogauto/deploy.yml?label=deploy&logo=github)
+> [![Astro](https://img.shields.io/badge/Astro_5-BC52EE?logo=astro&logoColor=fff)](https://astro.build/) [![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/) [![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)](https://astroblogauto.vercel.app/)
 >
-> Personal blog with **Notion → Markdown auto-publishing** via GitHub Actions. Lightning-fast Astro v5 static generation with RSS feed and SEO-friendly sitemap.
+> Personal technical blog and portfolio with **Notion → Markdown auto-publishing** via GitHub Actions. Lightning-fast Astro v5 static generation with React islands, RSS feed, and SEO-friendly sitemap. Deployed on **Vercel**.
 
 ---
 
