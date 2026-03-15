@@ -79,7 +79,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 ### 🎙️ StoryForge
 > Voice-Driven AI Storybook Generator — Gemini Live Agent Hackathon
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/StoryForge) [![Hackathon](https://img.shields.io/badge/🏆_Gemini_Live_Agent_Hackathon-4285F4)](https://github.com/Ker102/StoryForge) [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Ker102/StoryForge/blob/main/LICENSE) [![Team](https://img.shields.io/badge/Team-5_Contributors-blueviolet)](https://github.com/Ker102/StoryForge)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/StoryForge) [![Hackathon](https://img.shields.io/badge/🏆_Gemini_Live_Agent_Hackathon-4285F4)](https://ai.google.dev/gemini-api/docs) [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Ker102/StoryForge/blob/main/LICENSE) [![Team](https://img.shields.io/badge/Team-5_Contributors-blueviolet)](https://github.com/Ker102/StoryForge)
 >
 > [![Python](https://img.shields.io/badge/Python_3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Gemini](https://img.shields.io/badge/Gemini_Live_API-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
 >
