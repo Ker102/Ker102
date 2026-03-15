@@ -19,6 +19,28 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ---
 
+### 🤖 ModelForge
+> AI-Powered Blender Assistant
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ModelForge) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/)
+>
+> [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/) [![Gemini](https://img.shields.io/badge/Gemini_3_Pro-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
+>
+> Desktop AI assistant for 3D workflows with **ReAct-style orchestration**, **113+ Blender script RAG pipeline**, viewport screenshot analysis, and conversation memory. Features MCP integration for Poly Haven, Hyper3D, and Sketchfab assets.
+
+---
+
+### 🎯 PromptTriage
+> Intelligent Prompt Engineering Platform
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/PromptTriage) [![Gemini](https://img.shields.io/badge/Gemini_3_Pro-4285F4?logo=googlegemini&logoColor=fff)](https://ai.google.dev/)
+>
+> [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-000?logo=pinecone&logoColor=fff)](https://www.pinecone.io/)
+>
+> Enterprise-grade prompt refinement with **metaprompt architecture**, **28,000+ vector RAG system** (Redis + Pinecone), and **multimodal support** (Text/Image/Video). Features Context7 live documentation integration and 79+ curated system prompts.
+
+---
+
 ### ⚡ Kaelux-Automate
 > Enterprise AI-Powered n8n Workflow Builder
 >
@@ -43,17 +65,6 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ---
 
-### 🤖 ModelForge
-> AI-Powered Blender Assistant
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ModelForge) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/)
->
-> [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/) [![Gemini](https://img.shields.io/badge/Gemini_3_Pro-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
->
-> Desktop AI assistant for 3D workflows with **ReAct-style orchestration**, **113+ Blender script RAG pipeline**, viewport screenshot analysis, and conversation memory. Features MCP integration for Poly Haven, Hyper3D, and Sketchfab assets.
-
----
-
 ### 🌌 n8n Automation Atlas
 > World's Largest Open-Source n8n Workflow Dataset
 >
@@ -65,25 +76,14 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ---
 
-### 🎯 PromptTriage
-> Intelligent Prompt Engineering Platform
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/PromptTriage) [![Gemini](https://img.shields.io/badge/Gemini_3_Pro-4285F4?logo=googlegemini&logoColor=fff)](https://ai.google.dev/)
->
-> [![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-000?logo=pinecone&logoColor=fff)](https://www.pinecone.io/)
->
-> Enterprise-grade prompt refinement with **metaprompt architecture**, **28,000+ vector RAG system** (Redis + Pinecone), and **multimodal support** (Text/Image/Video). Features Context7 live documentation integration and 79+ curated system prompts.
-
----
-
 ### 🎙️ StoryForge
-> Voice-Driven AI Storybook Generator
+> Voice-Driven AI Storybook Generator — Gemini Live Agent Hackathon
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/StoryForge) [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Ker102/StoryForge/blob/main/LICENSE)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/StoryForge) [![Hackathon](https://img.shields.io/badge/🏆_Gemini_Live_Agent_Hackathon-4285F4)](https://github.com/Ker102/StoryForge) [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Ker102/StoryForge/blob/main/LICENSE) [![Team](https://img.shields.io/badge/Team-5_Contributors-blueviolet)](https://github.com/Ker102/StoryForge)
 >
 > [![Python](https://img.shields.io/badge/Python_3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Gemini](https://img.shields.io/badge/Gemini_Live_API-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
 >
-> Real-time voice-driven storybook creator powered by **Gemini Live API**. Speak your ideas to **Quill**, an AI creative companion, and get fully illustrated pages with **Imagen 4** art and narration. Features child-safe content filtering, one-click PDF export, and parallel text/image/audio generation.
+> Built for the **Gemini Live Agent Hackathon** by a team of 5. A real-time voice-driven storybook creator powered by **Gemini Live API**. Speak your ideas to **Quill**, an AI creative companion, and get fully illustrated pages with **Imagen 4** art and narration. Features child-safe content filtering, one-click PDF export, and parallel text/image/audio generation.
 
 ---
 
