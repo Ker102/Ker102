@@ -90,9 +90,9 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 ### 📝 Astroblogauto
 > Notion-Powered Blog with Auto-Publishing
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto) [![Live](https://img.shields.io/badge/🔗_Live_Site-Vercel-000?logo=vercel&logoColor=fff)](https://astroblogauto.vercel.app/)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto) [![Live](https://img.shields.io/badge/🔗_Live_Site-Vercel-000?logo=vercel&logoColor=fff)](https://ker102blog.vercel.app/)
 >
-> [![Astro](https://img.shields.io/badge/Astro_5-BC52EE?logo=astro&logoColor=fff)](https://astro.build/) [![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/) [![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)](https://astroblogauto.vercel.app/)
+> [![Astro](https://img.shields.io/badge/Astro_5-BC52EE?logo=astro&logoColor=fff)](https://astro.build/) [![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/) [![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)](https://ker102blog.vercel.app/)
 >
 > Personal technical blog and portfolio with **Notion → Markdown auto-publishing** via GitHub Actions. Lightning-fast Astro v5 static generation with React islands, RSS feed, and SEO-friendly sitemap. Deployed on **Vercel**.
 
@@ -149,6 +149,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 ## 🌐 Connect
 
 [![Website](https://img.shields.io/badge/Kaelux.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://Kaelux.dev)
+[![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ker102blog.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristoferjussmann)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kaelux.dev)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/Ker102)
