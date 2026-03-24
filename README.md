@@ -6,7 +6,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ---
 
-## 🚀 Featured Projects
+## <img src="assets/icons/featured-projects.svg" alt="Projects icon" width="18" /> Featured Projects
 
 ### 🌐 Kaelux.dev
 > AI Engineering Agency & Cloud Platform
@@ -19,10 +19,10 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ---
 
-### 🤖 ModelForge
+### <img src="assets/icons/vipermesh.svg" alt="ViperMesh icon" width="18" /> ViperMesh
 > AI-Powered Blender Assistant
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ModelForge) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ViperMesh) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/)
 >
 > [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/)
 >
