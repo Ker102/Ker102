@@ -1,6 +1,6 @@
 # 👋 About Me
 
-**Agentic Systems Architect & Cloud Engineer** based in Estonia, designing intelligent infrastructure that bridges LLM orchestration, autonomous agents, and enterprise-grade cloud deployments.
+**DevOps, Cloud Security and Agentic systems enginineering specialist** based in Estonia, designing intelligent infrastructure that bridges LLM orchestration, autonomous agents, and enterprise-grade cloud deployments.
 
 I specialize in building agentic AI pipelines, RAG-powered workflows, and managed cloud platforms — from fine-tuned models to production-ready IaaS. Every system I ship is designed for reliability, scale, and real-world automation.
 
