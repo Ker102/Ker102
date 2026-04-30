@@ -24,7 +24,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ViperMesh) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/)
 >
-> [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/)
+> [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/) [![ViperAgent](https://img.shields.io/badge/ViperAgent-2.0-0D9488?logo=openai&logoColor=fff)](https://github.com/Ker102/ViperMesh)
 >
 > An AI Blender assistant powered by **ViperAgent 2.0** — a LangChain v1 + LangGraph ReAct agent with dynamic addon detection, 22 native Blender tools, a Corrective RAG (CRAG) pipeline, and 3-tier neural 3D generation for high-accuracy workflow automation.
 
@@ -35,7 +35,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/PromptTriage) [![Live](https://img.shields.io/badge/🚀_Live-prompttriage.kaelux.dev-00D4AA)](https://prompttriage.kaelux.dev)
 >
-> [![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-28K+_Vectors-000?logo=pinecone&logoColor=fff)](https://www.pinecone.io/) [![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
+> [![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-28K+_Vectors-000?logo=pinecone&logoColor=fff)](https://www.pinecone.io/) [![TriageAgent](https://img.shields.io/badge/TriageAgent-14B-F39C12?logo=openai&logoColor=fff)](https://github.com/Ker102/PromptTriage)
 >
 > Enterprise prompt engineering platform with **28,000+ prompt corpus RAG**, modality-specific metaprompts (Text/Image/Video/System), Context7 MCP integration, and fast mode backed by fine-tuned **TriageAgent 14B**.
 
@@ -48,7 +48,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > ![RAG](https://img.shields.io/badge/RAG_Vectors-36,166-FF4F64) ![CRAG](https://img.shields.io/badge/CRAG_Pipeline-Active-brightgreen) ![Custom Model](https://img.shields.io/badge/Qwen_3_Coder_14B-Training-orange)
 >
-> [![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/) [![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=fff)](https://vite.dev/) [![Node.js](https://img.shields.io/badge/Node.js-22-339933?logo=nodedotjs&logoColor=fff)](https://nodejs.org/) [![n8n](https://img.shields.io/badge/n8n-1.x-EA4B71?logo=n8n&logoColor=fff)](https://n8n.io/) [![Gemini](https://img.shields.io/badge/Gemini-3_Pro_Preview-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
+> [![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/) [![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=fff)](https://vite.dev/) [![Node.js](https://img.shields.io/badge/Node.js-22-339933?logo=nodedotjs&logoColor=fff)](https://nodejs.org/) [![n8n](https://img.shields.io/badge/n8n-1.x-EA4B71?logo=n8n&logoColor=fff)](https://n8n.io/)
 >
 > Generate n8n workflows from natural language with **CRAG-enhanced retrieval** (Jina Reranker + Mistral-Nemo Judge). Features diff-based updates, embedded n8n canvas, and custom **Qwen 3 Coder 14B** fine-tuning on 21,925 workflow examples.
 
@@ -59,7 +59,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Crosswind-Console) [![Status](https://img.shields.io/badge/Status-Pre--Release-success)](https://github.com/Ker102/Crosswind-Console)
 >
-> [![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=fff)](https://svelte.dev/) [![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=fff)](https://vite.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![LangChain](https://img.shields.io/badge/LangChain-1.2+-1C3C3C?logo=langchain&logoColor=fff)](https://www.langchain.com/) [![Gemini](https://img.shields.io/badge/Gemini-3_Pro_Preview-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
+> [![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=fff)](https://svelte.dev/) [![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=fff)](https://vite.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![LangChain](https://img.shields.io/badge/LangChain-1.2+-1C3C3C?logo=langchain&logoColor=fff)](https://www.langchain.com/) [![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
 >
 > Unified research dashboard with a **3-agent system** (Travel, Careers, Trends), hybrid RAG + MCP architecture, and a custom HTTP MCP client delivering **<3s tool latency** across 120+ real-time integrations.
 
@@ -81,7 +81,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/StoryForge) [![Hackathon](https://img.shields.io/badge/🏆_Gemini_Live_Agent_Hackathon-4285F4)](https://ai.google.dev/gemini-api/docs) [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Ker102/StoryForge/blob/main/LICENSE) [![Team](https://img.shields.io/badge/Team-5_Contributors-blueviolet)](https://github.com/Ker102/StoryForge)
 >
-> [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Gemini](https://img.shields.io/badge/Gemini_Live_API-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/) [![Imagen](https://img.shields.io/badge/Imagen-3-EA4335?logo=google&logoColor=fff)](https://deepmind.google/technologies/imagen-3/)
+> [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Quill](https://img.shields.io/badge/Quill-AI_Companion-4285F4?logo=google&logoColor=fff)](https://github.com/Ker102/StoryForge) [![Imagen](https://img.shields.io/badge/Imagen-3-EA4335?logo=google&logoColor=fff)](https://deepmind.google/technologies/imagen-3/)
 >
 > Built for the **Gemini Live Agent Hackathon** by a team of 5. A real-time voice storytelling app featuring **Quill**, an AI creative companion powered by Gemini Live API, with **Gemini 2.5 Flash** story generation, **Imagen 3** illustrations, child-safe filtering, and one-click PDF export.
 
@@ -119,7 +119,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 ![Prisma](https://img.shields.io/badge/Prisma-5.x-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### AI & LLM
-![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro_%26_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1.2%2B-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
