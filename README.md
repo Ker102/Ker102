@@ -35,7 +35,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/PromptTriage) [![Live](https://img.shields.io/badge/🚀_Live-prompttriage.kaelux.dev-00D4AA)](https://prompttriage.kaelux.dev)
 >
-> [![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-28K+_Vectors-000?logo=pinecone&logoColor=fff)](https://www.pinecone.io/) [![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
+> [![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-28K+_Vectors-000?logo=pinecone&logoColor=fff)](https://www.pinecone.io/) [![Gemini](https://img.shields.io/badge/Gemini-3_Pro_Preview-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
 >
 > Enterprise prompt engineering platform with **28,000+ prompt corpus RAG**, modality-specific metaprompts (Text/Image/Video/System), Context7 MCP integration, and fast mode backed by fine-tuned **TriageAgent 14B**.
 
@@ -119,7 +119,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 ![Prisma](https://img.shields.io/badge/Prisma-5.x-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### AI & LLM
-![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro_%26_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-3_Pro_Preview_%26_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1.2%2B-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
