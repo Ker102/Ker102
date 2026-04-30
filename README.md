@@ -26,7 +26,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/)
 >
-> An AI Blender assistant powered by **ViperAgent 2.0** — a LangChain v1 + LangGraph ReAct agent with dynamic addon detection, 22 native Blender tools, a hybrid CRAG pipeline, and 3-tier neural 3D generation for high-accuracy workflow automation.
+> An AI Blender assistant powered by **ViperAgent 2.0** — a LangChain v1 + LangGraph ReAct agent with dynamic addon detection, 22 native Blender tools, a Corrective RAG (CRAG) pipeline, and 3-tier neural 3D generation for high-accuracy workflow automation.
 
 ---
 
