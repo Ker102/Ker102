@@ -26,7 +26,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/)
 >
-> Rebranded as **ViperMesh**: an AI Blender assistant with LangChain v1 ReAct agents, dynamic addon detection, 22 native Blender tools, and a hybrid RAG pipeline for high-accuracy 3D workflow automation.
+> An AI Blender assistant powered by **ViperAgent 2.0** — a LangChain v1 + LangGraph ReAct agent with dynamic addon detection, 22 native Blender tools, a Corrective RAG (CRAG) pipeline, and 3-tier neural 3D generation for high-accuracy workflow automation.
 
 ---
 
@@ -83,7 +83,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Gemini](https://img.shields.io/badge/Gemini_Live_API-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/) [![Imagen](https://img.shields.io/badge/Imagen-3-EA4335?logo=google&logoColor=fff)](https://deepmind.google/technologies/imagen-3/)
 >
-> Built for the **Gemini Live Agent Hackathon** by a team of 5. A real-time voice storytelling app powered by Gemini Live API with **Gemini 2.5 Flash** + **Imagen 3** generation, child-safe filtering, and one-click PDF export.
+> Built for the **Gemini Live Agent Hackathon** by a team of 5. A real-time voice storytelling app featuring **Quill**, an AI creative companion powered by Gemini Live API, with **Gemini 2.5 Flash** story generation, **Imagen 3** illustrations, child-safe filtering, and one-click PDF export.
 
 ---
 
