@@ -30,6 +30,15 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ---
 
+### 🧠 Harneloop
+> Open-Source Agentic AI Project
+>
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Harneloop)
+>
+> One of my newest open-source projects focused on practical agentic workflows and developer-first automation patterns.
+
+---
+
 ### 🎯 PromptTriage
 > Intelligent Prompt Engineering Platform
 >
@@ -90,7 +99,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 ### 📝 Astroblogauto
 > Notion-Powered Technical Blog & Portfolio
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto) [![Live](https://img.shields.io/badge/🔗_Live_Site-Vercel-000?logo=vercel&logoColor=fff)](https://ker102blog.vercel.app/)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto) [![Live](https://img.shields.io/badge/🔗_Live_Site-Vercel-000?logo=vercel&logoColor=fff)](https://kristoferjussmann.me)
 >
 > [![Astro](https://img.shields.io/badge/Astro-v5.16-BC52EE?logo=astro&logoColor=fff)](https://astro.build/) [![React](https://img.shields.io/badge/React-v19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![Notion](https://img.shields.io/badge/Notion_Sync-GitHub_Actions-000?logo=notion&logoColor=fff)](https://www.notion.so/) [![Deploy](https://img.shields.io/badge/Deploy-GitHub_Pages-222?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto/actions)
 >
@@ -137,12 +146,14 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ker102&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ker102&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ker102&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Ker102&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="Ker102 GitHub stats" />
+<br />
+<img src="https://streak-stats.demolab.com?user=Ker102&theme=neon&hide_border=false" alt="Ker102 GitHub streak stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ker102&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ker102 top languages" />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ker102&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Ker102&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Ker102 GitHub trophies" />
 
 ---
 
