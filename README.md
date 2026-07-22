@@ -35,7 +35,7 @@ I specialize in building agentic AI pipelines, RAG-powered workflows, and manage
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Harneloop)
 >
-> One of my newest open-source projects focused on practical agentic workflows and developer-first automation patterns.
+> Harneloop is an open-source, agent-first framework for building and evolving task-specific AI agent harnesses through artifact-aware testing, trace-backed diagnosis, and evidence-gated promotion.
 
 ---
 
