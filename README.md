@@ -1,176 +1,74 @@
-# 👋 About Me
+# Kristofer Jussmann
 
-**DevOps, Cloud Security and Agentic systems enginineering specialist** based in Estonia, designing intelligent infrastructure that bridges LLM orchestration, autonomous agents, and enterprise-grade cloud deployments.
+I am **Kristofer Jussmann (Ker102)**, a DevSecOps, cloud platform, and agentic AI engineer based in Estonia. I build secure AI systems, cloud infrastructure, agent evaluation tooling, retrieval-augmented generation systems, and production automation with an emphasis on measurable results and public engineering evidence.
 
-I specialize in building agentic AI pipelines, RAG-powered workflows, and managed cloud platforms — from fine-tuned models to production-ready IaaS. Every system I ship is designed for reliability, scale, and real-world automation.
+[Projects](#selected-projects) · [Portfolio](https://kristoferjussmann.me/portfolio) · [Case studies](https://kristoferjussmann.me/case-studies) · [Canonical blog](https://kristoferjussmann.me/blog) · [LinkedIn](https://www.linkedin.com/in/kristofer-jussmann-ker102/) · [Technical expertise](#technical-expertise-and-engineering-methods) · [GitHub activity](#github-activity) · [Open source](#open-source-contributions)
 
----
+*Last updated: July 2026*
 
-## <img src="assets/icons/featured-projects.svg" alt="Projects icon" width="18" /> Featured Projects
+## Kaelux Labs
 
-### 🌐 Kaelux.dev
-> AI Engineering Agency & Cloud Platform
->
-> [![Website](https://img.shields.io/badge/🔗_Kaelux.dev-0A0A0A?style=flat)](https://Kaelux.dev) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Kaelux-DevPortfolio)
->
-> [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/) [![Groq](https://img.shields.io/badge/Groq-Llama_3.3-orange)](https://groq.com/)
->
-> AI engineering agency platform with **Neural Diagnoser**, **OpenClaw Cloud** managed agent hosting, and GEO-optimized AI wiki content. Built as a production Next.js 15 TypeScript stack deployed on DigitalOcean.
+[Kaelux](https://kaelux.dev) is my AI engineering research lab, parent company, and B2B consultancy. It develops the wider project portfolio and works with organizations that need practical AI onboarding, workflow automation, AI/ML integration, cloud deployment, and technical consultancy.
 
----
+Kaelux has delivered automation and AI/ML work for multiple customers. Its products and subsidiaries have supported users across several domains, while its public work and service campaigns have built substantial reach on platforms including Instagram.
 
-### <img src="assets/icons/vipermesh.svg" alt="ViperMesh icon" width="18" /> ViperMesh
-> AI-Powered Blender Assistant
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/ViperMesh) [![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff)](https://www.blender.org/)
->
-> [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](https://www.electronjs.org/) [![ViperAgent](https://img.shields.io/badge/ViperAgent-2.0-0D9488?logo=openai&logoColor=fff)](https://github.com/Ker102/ViperMesh)
->
-> An AI Blender assistant powered by **ViperAgent 2.0** — a LangChain v1 + LangGraph ReAct agent with dynamic addon detection, 22 native Blender tools, a Corrective RAG (CRAG) pipeline, and 3-tier neural 3D generation for high-accuracy workflow automation.
+**Infrastructure and cloud partners:** [Microsoft](https://www.microsoft.com/) and [Google Cloud](https://cloud.google.com/)<br>
+**Supported by:** [Notion](https://www.notion.com/) and [PostHog](https://posthog.com/)
 
----
+[Visit Kaelux.dev](https://kaelux.dev) · [View the Kaelux repository](https://github.com/Ker102/Kaelux.dev) · [Review project evidence](https://kristoferjussmann.me/case-studies)
 
-### 🧠 Harneloop
-> Open-Source Agentic AI Project
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Harneloop)
->
-> Harneloop is an open-source, agent-first framework for building and evolving task-specific AI agent harnesses through artifact-aware testing, trace-backed diagnosis, and evidence-gated promotion.
+## Selected projects
 
----
+| Project | Focus and engineering method | Evidence | Links |
+|:--|:--|:--|:--|
+| **ViperMesh**<br>Active private product | Unified 3D developer workspace and studio. Combines a browser 3D engine, neural 3D tools, and a deterministic Blender agent harness with artifact-aware evaluation. The Blender add-on and persistent MCP connector are maintained separately as open source. | 6 of 7 benchmark speed wins; 2.534× mean speedup; 90.91% lower acting-agent token use in a comparable task. | [Case study](https://kristoferjussmann.me/case-studies/vipermesh) · [Open-source Blender connector](https://github.com/Ker102/vipermesh-blender) |
+| **PromptTriage**<br>Active | RAG-powered prompt research and engineering platform using structured evaluations and model comparisons. The current product is supported by a documented historical PR-gated Azure container-delivery path. | 28K+ prompt corpus; 1,080 structured evaluations; +13.9% relative instruction-following result in a scoped comparison. | [Repository](https://github.com/Ker102/PromptTriage) · [Case study](https://kristoferjussmann.me/case-studies/prompttriage) |
+| **Harneloop**<br>Active alpha | Framework for self-evolving agent harnesses using portable harness units, artifact-aware tests, trace-backed diagnosis, isolated candidates, and evidence-gated promotion. | Public framework and case study; applied to the ViperMesh Blender benchmark program. | [Project site](https://harneloop.kaelux.dev/) · [Repository](https://github.com/Ker102/Harneloop) · [Case study](https://kristoferjussmann.me/case-studies/harneloop) |
+| **n8n Automation Atlas**<br>Active public project | Schema-aware workflow generation, validation, dataset publishing, and retrieval experiments for n8n automation. | 36,985 import-ready workflows; 131,648-row ML dataset; 36,166 indexed vectors. | [Explorer](https://n8n-workflows-36k.vercel.app/) · [Repository](https://github.com/Ker102/n8n-workflows-36k) · [Dataset](https://huggingface.co/datasets/Ker102/n8n-mega-workflows) · [Case study](https://kristoferjussmann.me/case-studies/n8n-automation-atlas) |
+| **nullstate-cli**<br>Active open-source alpha | Local-first purple-team CLI for Terraform. Replays cloud attack paths in LocalStack, uses a private vLLM endpoint for red/blue reasoning, and applies deterministic remediation. | AWS exploit replay succeeded before remediation and was blocked afterward; 104.45 tok/s recorded for the final red-agent run. | [Repository](https://github.com/Ker102/nullstate-cli) · [Case study](https://kristoferjussmann.me/case-studies/nullstate) |
+| **Private Secure AI Automation Platform**<br>Archived; recovered evidence | Stateful n8n and OpenClaw platform migrated from a Google Cloud VM to Azure Container Apps with Azure Files, PostgreSQL Flexible Server, ACR, private endpoints, private DNS, managed identity, and Tailscale access. | Recovered topology, migration sequence, and cost evidence; missing deployment artifacts and attribution limits are disclosed. | [Project record](https://kristoferjussmann.me/projects#private-azure-platform) |
+| **Crosswind Console**<br>Paused public experiment | Multi-agent research console using hybrid RAG, MCP, persistent HTTP pooling, and specialist travel, career, and trend agents. | 120+ real-time tools; documented tool latency reduced from roughly 60 seconds to under 3 seconds. | [Repository](https://github.com/Ker102/Crosswind-Console) |
+| **StoryForge**<br>Completed collaboration | Voice-driven storybook system built with an observable agent-to-tool pipeline, safety controls, image generation, and Cloud Run delivery. | Five-person hackathon team; 122 backend tests; 8 of 9 recorded end-to-end checks. | [Repository](https://github.com/Ker102/StoryForge) |
+| **Tuur360**<br>Active pilot business | Estonia-wide 360-tour, drone-media, and Google Maps visibility service with a documented capture-to-delivery workflow and evidence-led pilot model. | Live service site and published Google Maps media; client outcome reporting remains pilot-gated. | [Service site](https://www.tuur360.ee/) · [Google Maps contributions](https://www.google.com/maps/contrib/114756913165612961369) |
 
-### 🎯 PromptTriage
-> Intelligent Prompt Engineering Platform
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/PromptTriage) [![Live](https://img.shields.io/badge/🚀_Live-prompttriage.kaelux.dev-00D4AA)](https://prompttriage.kaelux.dev)
->
-> [![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?logo=nextdotjs&logoColor=fff)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-28K+_Vectors-000?logo=pinecone&logoColor=fff)](https://www.pinecone.io/) [![TriageAgent](https://img.shields.io/badge/TriageAgent-14B-F39C12?logo=openai&logoColor=fff)](https://github.com/Ker102/PromptTriage)
->
-> Enterprise prompt engineering platform with **28,000+ prompt corpus RAG**, modality-specific metaprompts (Text/Image/Video/System), Context7 MCP integration, and fast mode backed by fine-tuned **TriageAgent 14B**.
+The [full portfolio](https://kristoferjussmann.me/portfolio) also documents the [ViperMesh Azure GPU inference pilot](https://kristoferjussmann.me/projects#vipermesh-azure-gpu), [Examplayer](https://github.com/Ker102/Examplayer), business-system pilots, and other engineering work with clear evidence boundaries.
 
----
+## Open-source contributions
 
-### ⚡ Kaelux-Automate
-> Enterprise AI-Powered n8n Workflow Builder
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Kaelux-Automate) [![CodeQL](https://github.com/Ker102/Kaelux-Automate/actions/workflows/codeql.yml/badge.svg)](https://github.com/Ker102/Kaelux-Automate/actions/workflows/codeql.yml)
->
-> ![RAG](https://img.shields.io/badge/RAG_Vectors-36,166-FF4F64) ![CRAG](https://img.shields.io/badge/CRAG_Pipeline-Active-brightgreen) ![Custom Model](https://img.shields.io/badge/Qwen_3_Coder_14B-Training-orange)
->
-> [![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/) [![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=fff)](https://vite.dev/) [![Node.js](https://img.shields.io/badge/Node.js-22-339933?logo=nodedotjs&logoColor=fff)](https://nodejs.org/) [![n8n](https://img.shields.io/badge/n8n-1.x-EA4B71?logo=n8n&logoColor=fff)](https://n8n.io/)
->
-> Generate n8n workflows from natural language with **CRAG-enhanced retrieval** (Jina Reranker + Mistral-Nemo Judge). Features diff-based updates, embedded n8n canvas, and custom **Qwen 3 Coder 14B** fine-tuning on 21,925 workflow examples.
+| Project | Contribution | Outcome |
+|:--|:--|:--|
+| [Prowler](https://github.com/prowler-cloud/prowler/pull/10347) | Fixed an OCI audit-retention 404 by creating the audit client in the tenancy home region and adding regression coverage. | Direct contribution merged upstream. |
+| [Graphiti](https://github.com/getzep/graphiti/pull/1339) | Traced a provider-compatibility defect affecting Gemini, Ollama, and vLLM-compatible endpoints and proposed generic-client routing. | Proposal independently validated and later superseded by the upstream factory refactor. |
+| [Matplotlib](https://github.com/matplotlib/matplotlib/pull/31308) | Mentored a second-year computer-science student through a missing Sphinx Gallery thumbnail fix. | Student-authored documentation contribution merged upstream. |
 
----
+## Background
 
-### 🔬 Crosswind Console
-> AI Orchestration Platform for Research
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Crosswind-Console) [![Status](https://img.shields.io/badge/Status-Pre--Release-success)](https://github.com/Ker102/Crosswind-Console)
->
-> [![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=fff)](https://svelte.dev/) [![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=fff)](https://vite.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![LangChain](https://img.shields.io/badge/LangChain-1.2+-1C3C3C?logo=langchain&logoColor=fff)](https://www.langchain.com/) [![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=fff)](https://ai.google.dev/)
->
-> Unified research dashboard with a **3-agent system** (Travel, Careers, Trends), hybrid RAG + MCP architecture, and a custom HTTP MCP client delivering **<3s tool latency** across 120+ real-time integrations.
+**Founder and Lead AI Engineer, Kaelux — 2024 to present.** Client automation, AI/ML integration, workflow engineering, deployment, and advisory work.
 
----
+**Estonian Defence Forces — 2024 to 2025.** Completed mandatory military service while continuing technical project development.
 
-### 🌌 n8n Automation Atlas
-> World's Largest Open-Source n8n Workflow Dataset
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/n8n-workflows-36k) [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Dataset-FFD21E)](https://huggingface.co/datasets/Ker102/n8n-mega-workflows) [![Explorer](https://img.shields.io/badge/🔍_Workflow_Explorer-Vercel-000)](https://n8n-workflows-36k.vercel.app)
->
-> ![Total](https://img.shields.io/badge/Total_Workflows-131,648-blueviolet) ![Importable](https://img.shields.io/badge/Importable-36,985-green) ![Vectors](https://img.shields.io/badge/RAG_Vectors-36,166-FF4F64) ![Node](https://img.shields.io/badge/Node.js-22-339933?logo=nodedotjs&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=fff)
->
-> **131,648 n8n workflows** (36,985 importable) with Vue + Vite explorer, Qdrant Cloud indexing, and HuggingFace training exports. Serves as the retrieval and fine-tuning backbone for Kaelux-Automate.
+Current credentials include Microsoft Certified: Azure Administrator Associate, DataCamp AI Engineering for Developers Associate, Anaconda Machine Learning Foundations, Docker Foundations, GitHub Foundations, Microsoft Applied Skills: Azure Administration, and Cambridge C1 Advanced English.
 
----
+## Technical expertise and engineering methods
 
-### 🎙️ StoryForge
-> Voice-Driven AI Storybook Generator — Gemini Live Agent Hackathon
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/StoryForge) [![Hackathon](https://img.shields.io/badge/🏆_Gemini_Live_Agent_Hackathon-4285F4)](https://ai.google.dev/gemini-api/docs) [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Ker102/StoryForge/blob/main/LICENSE) [![Team](https://img.shields.io/badge/Team-5_Contributors-blueviolet)](https://github.com/Ker102/StoryForge)
->
-> [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) [![Quill](https://img.shields.io/badge/Quill-AI_Companion-4285F4?logo=google&logoColor=fff)](https://github.com/Ker102/StoryForge) [![Imagen](https://img.shields.io/badge/Imagen-3-EA4335?logo=google&logoColor=fff)](https://deepmind.google/technologies/imagen-3/)
->
-> Built for the **Gemini Live Agent Hackathon** by a team of 5. A real-time voice storytelling app featuring **Quill**, an AI creative companion powered by Gemini Live API, with **Gemini 2.5 Flash** story generation, **Imagen 3** illustrations, child-safe filtering, and one-click PDF export.
+- **Agentic AI and machine learning:** agentic systems, LLM orchestration, retrieval-augmented generation (RAG), corrective RAG, prompt engineering, model evaluation, LLM-as-judge workflows, vector search, Hugging Face, vLLM, LangChain, and LangGraph.
+- **Cloud, DevSecOps, and infrastructure:** Microsoft Azure, Azure Container Apps, Azure Machine Learning, Azure Container Registry, Google Cloud, AWS, Docker, Kubernetes and K3s, Terraform, LocalStack, GitHub Actions, CI/CD, managed identity, private networking, observability, and cloud cost analysis.
+- **Data and automation:** n8n, PostgreSQL, Supabase, Pinecone, Qdrant, Redis, synthetic dataset generation, workflow orchestration, semantic retrieval, and schema validation.
+- **Application and 3D engineering:** Python, TypeScript, JavaScript, SQL, Bash, PowerShell, React, Next.js, Astro, FastAPI, Svelte, Vue, Three.js, Electron, Blender Python API, and Model Context Protocol (MCP).
+- **Engineering methods:** artifact-aware agent evaluation, evidence-gated promotion, deterministic remediation, benchmark-driven development, PR-gated container delivery, trace-backed diagnosis, secure-by-design infrastructure, and reproducible technical documentation.
 
----
+## GitHub activity
 
-### 📝 Astroblogauto
-> Notion-Powered Technical Blog & Portfolio
->
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto) [![Live](https://img.shields.io/badge/🔗_Live_Site-Vercel-000?logo=vercel&logoColor=fff)](https://kristoferjussmann.me)
->
-> [![Astro](https://img.shields.io/badge/Astro-v5.16-BC52EE?logo=astro&logoColor=fff)](https://astro.build/) [![React](https://img.shields.io/badge/React-v19-61DAFB?logo=react&logoColor=000)](https://react.dev/) [![Notion](https://img.shields.io/badge/Notion_Sync-GitHub_Actions-000?logo=notion&logoColor=fff)](https://www.notion.so/) [![Deploy](https://img.shields.io/badge/Deploy-GitHub_Pages-222?logo=github&logoColor=fff)](https://github.com/Ker102/Astroblogauto/actions)
->
-> Personal technical blog and portfolio with **Notion → Markdown auto-publishing** via GitHub Actions, Astro v5 static generation, React islands, RSS, sitemap, and automated GitHub Pages deployment.
+<a href="https://github.com/Ker102">
+  <img src="metrics.plugin.isocalendar.svg" width="480" alt="Ker102 GitHub contribution calendar" />
+</a>
 
----
+[View my GitHub profile](https://github.com/Ker102) · [Browse all repositories](https://github.com/Ker102?tab=repositories)
 
-## 🛠️ Tech Stack
+## Writing and profiles
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[Personal site](https://kristoferjussmann.me) · [Canonical blog](https://kristoferjussmann.me/blog) · [Case studies](https://kristoferjussmann.me/case-studies) · [Portfolio](https://kristoferjussmann.me/portfolio)
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-15%2F16-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-18%2F19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[LinkedIn: Kristofer Jussmann](https://www.linkedin.com/in/kristofer-jussmann-ker102/) · [Hugging Face: Ker102](https://huggingface.co/Ker102) · [Dev.to: Ker102](https://dev.to/ker102) · [Hashnode: Ker102](https://hashnode.com/@ker102) · [Google Maps contributions](https://www.google.com/maps/contrib/114756913165612961369)
 
-### Backend & Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-5.x-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### AI & LLM
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1.2%2B-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
-### Vector Databases & RAG
-![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Automation & Tools
-![n8n](https://img.shields.io/badge/n8n-1.x-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ker102&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="Ker102 GitHub stats" />
-<br />
-<img src="https://streak-stats.demolab.com?user=Ker102&theme=neon&hide_border=false" alt="Ker102 GitHub streak stats" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ker102&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ker102 top languages" />
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Ker102&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Ker102 GitHub trophies" />
-
----
-
-## 🌐 Connect
-
-[![Website](https://img.shields.io/badge/Kaelux.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://Kaelux.dev)
-[![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ker102blog.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristoferjussmann)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kaelux.dev)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/Ker102)
-
-💼 **Open to collaborations and opportunities**
-
-📫 **Contact:** kristoferjussmann@gmail.com
-
----
-
-![Half-year Calendar](metrics.plugin.isocalendar.svg)
-
-[![](https://visitcount.itsvg.in/api?id=Ker102&icon=0&color=0)](https://visitcount.itsvg.in)
+For collaboration, AI integration, or engineering work: [kristoferjussmann@gmail.com](mailto:kristoferjussmann@gmail.com)
