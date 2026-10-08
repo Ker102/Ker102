@@ -4,11 +4,11 @@ I am **Kristofer Jussmann (Ker102)**, a DevSecOps, cloud platform, and agentic A
 
 [Projects](#selected-projects) · [Portfolio](https://kristoferjussmann.me/portfolio) · [Case studies](https://kristoferjussmann.me/case-studies) · [Canonical blog](https://kristoferjussmann.me/blog) · [LinkedIn](https://www.linkedin.com/in/kristofer-jussmann-ker102/) · [Technical expertise](#technical-expertise-and-engineering-methods) · [GitHub activity](#github-activity) · [Open source](#open-source-contributions)
 
-*Last updated: July 2026*
+*Last updated: October 2026*
 
 ## Kaelux Labs
 
-[Kaelux](https://kaelux.dev) is my AI engineering research lab, parent company, and B2B consultancy. It develops the wider project portfolio and works with organizations that need practical AI onboarding, workflow automation, AI/ML integration, cloud deployment, and technical consultancy.
+[Kaelux](https://kaelux.dev) is my research lab and consultancy for turning real problems into useful tools. I work with collaborators and business clients on AI systems, automation, and cloud engineering.
 
 Kaelux has delivered automation and AI/ML work for multiple customers. Its products and subsidiaries have supported users across several domains, while its public work and service campaigns have built substantial reach on platforms including Instagram.
 
@@ -21,7 +21,7 @@ Kaelux has delivered automation and AI/ML work for multiple customers. Its produ
 
 | Project | Focus and engineering method | Evidence | Links |
 |:--|:--|:--|:--|
-| **ViperMesh**<br>Active private product | Unified 3D developer workspace and studio. Combines a browser 3D engine, neural 3D tools, and a deterministic Blender agent harness with artifact-aware evaluation. The Blender add-on and persistent MCP connector are maintained separately as open source. | 6 of 7 benchmark speed wins; 2.534× mean speedup; 90.91% lower acting-agent token use in a comparable task. | [Case study](https://kristoferjussmann.me/case-studies/vipermesh) · [Open-source Blender connector](https://github.com/Ker102/vipermesh-blender) |
+| **ViperMesh**<br>Active private product | Unified 3D developer workspace and studio. Combines a browser 3D engine, neural 3D tools, and a deterministic Blender agent harness with artifact-aware evaluation. The Blender add-on and persistent MCP connector are maintained separately as open source. | 6 of 7 benchmark speed wins; 2.534× mean speedup; 90.91% lower aggregate acting-agent token use across seven comparable benchmarks. | [Case study](https://kristoferjussmann.me/case-studies/vipermesh) · [Open-source Blender connector](https://github.com/Ker102/vipermesh-blender) |
 | **PromptTriage**<br>Active | RAG-powered prompt research and engineering platform using structured evaluations and model comparisons. The current product is supported by a documented historical PR-gated Azure container-delivery path. | 28K+ prompt corpus; 1,080 structured evaluations; +13.9% relative instruction-following result in a scoped comparison. | [Repository](https://github.com/Ker102/PromptTriage) · [Case study](https://kristoferjussmann.me/case-studies/prompttriage) |
 | **Harneloop**<br>Active alpha | Framework for self-evolving agent harnesses using portable harness units, artifact-aware tests, trace-backed diagnosis, isolated candidates, and evidence-gated promotion. | Public framework and case study; applied to the ViperMesh Blender benchmark program. | [Project site](https://harneloop.kaelux.dev/) · [Repository](https://github.com/Ker102/Harneloop) · [Case study](https://kristoferjussmann.me/case-studies/harneloop) |
 | **n8n Automation Atlas**<br>Active public project | Schema-aware workflow generation, validation, dataset publishing, and retrieval experiments for n8n automation. | 36,985 import-ready workflows; 131,648-row ML dataset; 36,166 indexed vectors. | [Explorer](https://n8n-workflows-36k.vercel.app/) · [Repository](https://github.com/Ker102/n8n-workflows-36k) · [Dataset](https://huggingface.co/datasets/Ker102/n8n-mega-workflows) · [Case study](https://kristoferjussmann.me/case-studies/n8n-automation-atlas) |
